@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Bright (https://github.com/chriskempson/base16)
+; Scheme: Chris Kempson (http://chriskempson.com)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00000000
+"ColorTable01"=dword:00303030
+"ColorTable02"=dword:00505050
+"ColorTable03"=dword:00B0B0B0
+"ColorTable04"=dword:00D0D0D0
+"ColorTable05"=dword:00E0E0E0
+"ColorTable06"=dword:00F5F5F5
+"ColorTable07"=dword:00FFFFFF
+"ColorTable08"=dword:002001FB
+"ColorTable09"=dword:00246DFC
+"ColorTable10"=dword:0031A3FD
+"ColorTable11"=dword:0059C6A1
+"ColorTable12"=dword:00B7C776
+"ColorTable13"=dword:00D2B36F
+"ColorTable14"=dword:00C381D3
+"ColorTable15"=dword:003C64BE
