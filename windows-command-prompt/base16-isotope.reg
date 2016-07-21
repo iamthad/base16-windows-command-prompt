@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Isotope (https://github.com/chriskempson/base16)
+; Scheme: Jan T. Sott
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00000000 ; base00
+"ColorTable01"=dword:00ff6600 ; base0D
+"ColorTable02"=dword:0000ff33 ; base0B
+"ColorTable03"=dword:00ffff00 ; base0C
+"ColorTable04"=dword:000000ff ; base08
+"ColorTable05"=dword:00ff00cc ; base0E
+"ColorTable06"=dword:000099ff ; base09
+"ColorTable07"=dword:00d0d0d0 ; base05
+"ColorTable08"=dword:00808080 ; base03
+"ColorTable09"=dword:00404040 ; base01
+"ColorTable10"=dword:00606060 ; base02
+"ColorTable11"=dword:00808080 ; base03
+"ColorTable12"=dword:00c0c0c0 ; base04
+"ColorTable13"=dword:00d0d0d0 ; base05
+"ColorTable14"=dword:00e0e0e0 ; base06
+"ColorTable15"=dword:00ffffff ; base07

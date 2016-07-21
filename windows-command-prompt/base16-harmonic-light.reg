@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Harmonic16 Light (https://github.com/chriskempson/base16)
+; Scheme: Jannik Siebert (https://github.com/janniks)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00fbf9f7 ; base00
+"ColorTable01"=dword:00bf568b ; base0D
+"ColorTable02"=dword:008bbf56 ; base0B
+"ColorTable03"=dword:00bf8b56 ; base0C
+"ColorTable04"=dword:00568bbf ; base08
+"ColorTable05"=dword:008b56bf ; base0E
+"ColorTable06"=dword:0056bfbf ; base09
+"ColorTable07"=dword:00795c40 ; base05
+"ColorTable08"=dword:00cebcaa ; base03
+"ColorTable09"=dword:00f1ebe5 ; base01
+"ColorTable10"=dword:00e2d6cb ; base02
+"ColorTable11"=dword:00cebcaa ; base03
+"ColorTable12"=dword:00997e62 ; base04
+"ColorTable13"=dword:00795c40 ; base05
+"ColorTable14"=dword:00543b22 ; base06
+"ColorTable15"=dword:002c1c0b ; base07

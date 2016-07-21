@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Shapeshifter (https://github.com/chriskempson/base16)
+; Scheme: Tyler Benziger (http://tybenz.com)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00f9f9f9 ; base00
+"ColorTable01"=dword:00e3483b ; base0D
+"ColorTable02"=dword:0039d80e ; base0B
+"ColorTable03"=dword:00daed23 ; base0C
+"ColorTable04"=dword:002f2fe9 ; base08
+"ColorTable05"=dword:00e296f9 ; base0E
+"ColorTable06"=dword:004894e0 ; base09
+"ColorTable07"=dword:00152010 ; base05
+"ColorTable08"=dword:00555555 ; base03
+"ColorTable09"=dword:00e0e0e0 ; base01
+"ColorTable10"=dword:00ababab ; base02
+"ColorTable11"=dword:00555555 ; base03
+"ColorTable12"=dword:00343434 ; base04
+"ColorTable13"=dword:00152010 ; base05
+"ColorTable14"=dword:00040404 ; base06
+"ColorTable15"=dword:00000000 ; base07

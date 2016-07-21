@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 London Tube (https://github.com/chriskempson/base16)
+; Scheme: Jan T. Sott
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00201f23 ; base00
+"ColorTable01"=dword:00dc9d00 ; base0D
+"ColorTable02"=dword:003e8500 ; base0B
+"ColorTable03"=dword:00bcce85 ; base0C
+"ColorTable04"=dword:00242eee ; base08
+"ColorTable05"=dword:005d0098 ; base0E
+"ColorTable06"=dword:00a186f3 ; base09
+"ColorTable07"=dword:00d8d8d9 ; base05
+"ColorTable08"=dword:00717173 ; base03
+"ColorTable09"=dword:00953f1c ; base01
+"ColorTable10"=dword:0058575a ; base02
+"ColorTable11"=dword:00717173 ; base03
+"ColorTable12"=dword:00a19c95 ; base04
+"ColorTable13"=dword:00d8d8d9 ; base05
+"ColorTable14"=dword:00e8e7e7 ; base06
+"ColorTable15"=dword:00ffffff ; base07

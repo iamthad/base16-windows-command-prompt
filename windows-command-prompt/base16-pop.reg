@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Pop (https://github.com/chriskempson/base16)
+; Scheme: Chris Kempson (http://chriskempson.com)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00000000 ; base00
+"ColorTable01"=dword:00945a0e ; base0D
+"ColorTable02"=dword:0049b337 ; base0B
+"ColorTable03"=dword:00bbaa00 ; base0C
+"ColorTable04"=dword:008a00eb ; base08
+"ColorTable05"=dword:008d1eb3 ; base0E
+"ColorTable06"=dword:003393f2 ; base09
+"ColorTable07"=dword:00d0d0d0 ; base05
+"ColorTable08"=dword:00505050 ; base03
+"ColorTable09"=dword:00202020 ; base01
+"ColorTable10"=dword:00303030 ; base02
+"ColorTable11"=dword:00505050 ; base03
+"ColorTable12"=dword:00b0b0b0 ; base04
+"ColorTable13"=dword:00d0d0d0 ; base05
+"ColorTable14"=dword:00e0e0e0 ; base06
+"ColorTable15"=dword:00ffffff ; base07

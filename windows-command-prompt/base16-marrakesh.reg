@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Marrakesh (https://github.com/chriskempson/base16)
+; Scheme: Alexandre Gavioli (http://github.com/Alexx2/)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00021620 ; base00
+"ColorTable01"=dword:00a17c47 ; base0D
+"ColorTable02"=dword:004e9718 ; base0B
+"ColorTable03"=dword:0038a775 ; base0C
+"ColorTable04"=dword:005953c3 ; base08
+"ColorTable05"=dword:00b36888 ; base0E
+"ColorTable06"=dword:004461b3 ; base09
+"ColorTable07"=dword:00488e94 ; base05
+"ColorTable08"=dword:0023686c ; base03
+"ColorTable09"=dword:00002e30 ; base01
+"ColorTable10"=dword:00175b5f ; base02
+"ColorTable11"=dword:0023686c ; base03
+"ColorTable12"=dword:003b8186 ; base04
+"ColorTable13"=dword:00488e94 ; base05
+"ColorTable14"=dword:007ac3cc ; base06
+"ColorTable15"=dword:00a5f0fa ; base07

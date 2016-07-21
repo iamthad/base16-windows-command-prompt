@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Railscasts (https://github.com/chriskempson/base16)
+; Scheme: Ryan Bates (http://railscasts.com)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:002b2b2b ; base00
+"ColorTable01"=dword:00be9c6d ; base0D
+"ColorTable02"=dword:0061c2a5 ; base0B
+"ColorTable03"=dword:00509f51 ; base0C
+"ColorTable04"=dword:003949da ; base08
+"ColorTable05"=dword:00ebb3b6 ; base0E
+"ColorTable06"=dword:003378cc ; base09
+"ColorTable07"=dword:00dce1e6 ; base05
+"ColorTable08"=dword:007e645a ; base03
+"ColorTable09"=dword:00352927 ; base01
+"ColorTable10"=dword:0055403a ; base02
+"ColorTable11"=dword:007e645a ; base03
+"ColorTable12"=dword:00c9cfd4 ; base04
+"ColorTable13"=dword:00dce1e6 ; base05
+"ColorTable14"=dword:00edf1f4 ; base06
+"ColorTable15"=dword:00f3f7f9 ; base07

@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Seti UI (https://github.com/chriskempson/base16)
+; Scheme: 
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00181715 ; base00
+"ColorTable01"=dword:00dbb555 ; base0D
+"ColorTable02"=dword:0056ca9f ; base0B
+"ColorTable03"=dword:00bedb55 ; base0C
+"ColorTable04"=dword:00453fCd ; base08
+"ColorTable05"=dword:00c474a0 ; base0E
+"ColorTable06"=dword:00557bdb ; base09
+"ColorTable07"=dword:00d6d6d6 ; base05
+"ColorTable08"=dword:005B5341 ; base03
+"ColorTable09"=dword:003dc48e ; base01
+"ColorTable10"=dword:008C753B ; base02
+"ColorTable11"=dword:005B5341 ; base03
+"ColorTable12"=dword:00d5a543 ; base04
+"ColorTable13"=dword:00d6d6d6 ; base05
+"ColorTable14"=dword:00eeeeee ; base06
+"ColorTable15"=dword:00ffffff ; base07

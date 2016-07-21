@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Tomorrow (https://github.com/chriskempson/base16)
+; Scheme: Chris Kempson (http://chriskempson.com)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00ffffff ; base00
+"ColorTable01"=dword:00ae7142 ; base0D
+"ColorTable02"=dword:00008c71 ; base0B
+"ColorTable03"=dword:009f993e ; base0C
+"ColorTable04"=dword:002928c8 ; base08
+"ColorTable05"=dword:00a85989 ; base0E
+"ColorTable06"=dword:001f87f5 ; base09
+"ColorTable07"=dword:004c4d4d ; base05
+"ColorTable08"=dword:008c908e ; base03
+"ColorTable09"=dword:00e0e0e0 ; base01
+"ColorTable10"=dword:00d6d6d6 ; base02
+"ColorTable11"=dword:008c908e ; base03
+"ColorTable12"=dword:00969896 ; base04
+"ColorTable13"=dword:004c4d4d ; base05
+"ColorTable14"=dword:002e2a28 ; base06
+"ColorTable15"=dword:00211f1d ; base07

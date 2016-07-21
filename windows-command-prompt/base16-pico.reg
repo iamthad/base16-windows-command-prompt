@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Pico (https://github.com/chriskempson/base16)
+; Scheme: PICO-8 (http://www.lexaloffle.com/pico-8.php)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00000000 ; base00
+"ColorTable01"=dword:009c7683 ; base0D
+"ColorTable02"=dword:0056e700 ; base0B
+"ColorTable03"=dword:00ffad29 ; base0C
+"ColorTable04"=dword:004d00ff ; base08
+"ColorTable05"=dword:00a877ff ; base0E
+"ColorTable06"=dword:0000a3ff ; base09
+"ColorTable07"=dword:004f575f ; base05
+"ColorTable08"=dword:00518700 ; base03
+"ColorTable09"=dword:00532b1d ; base01
+"ColorTable10"=dword:0053257e ; base02
+"ColorTable11"=dword:00518700 ; base03
+"ColorTable12"=dword:003652ab ; base04
+"ColorTable13"=dword:004f575f ; base05
+"ColorTable14"=dword:00c7c3c2 ; base06
+"ColorTable15"=dword:00e8f1ff ; base07

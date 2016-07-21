@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Solarized Light (https://github.com/chriskempson/base16)
+; Scheme: Ethan Schoonover (http://ethanschoonover.com/solarized)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00e3f6fd ; base00
+"ColorTable01"=dword:00d28b26 ; base0D
+"ColorTable02"=dword:00009985 ; base0B
+"ColorTable03"=dword:0098a12a ; base0C
+"ColorTable04"=dword:002f32dc ; base08
+"ColorTable05"=dword:00c4716c ; base0E
+"ColorTable06"=dword:00164bcb ; base09
+"ColorTable07"=dword:00756e58 ; base05
+"ColorTable08"=dword:00969483 ; base03
+"ColorTable09"=dword:00d5e8ee ; base01
+"ColorTable10"=dword:00a1a193 ; base02
+"ColorTable11"=dword:00969483 ; base03
+"ColorTable12"=dword:00837b65 ; base04
+"ColorTable13"=dword:00756e58 ; base05
+"ColorTable14"=dword:00423607 ; base06
+"ColorTable15"=dword:00362b00 ; base07
