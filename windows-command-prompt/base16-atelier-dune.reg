@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Atelier Dune (https://github.com/chriskempson/base16)
+; Scheme: Bram de Haan (http://atelierbramdehaan.nl)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:001d2020 ; base00
+"ColorTable01"=dword:00e18466 ; base0D
+"ColorTable02"=dword:0039ac60 ; base0B
+"ColorTable03"=dword:0083ad1f ; base0C
+"ColorTable04"=dword:003737d7 ; base08
+"ColorTable05"=dword:00d454b8 ; base0E
+"ColorTable06"=dword:001156b6 ; base09
+"ColorTable07"=dword:008ca2a6 ; base05
+"ColorTable08"=dword:00687a7d ; base03
+"ColorTable09"=dword:00242829 ; base01
+"ColorTable10"=dword:005e6b6e ; base02
+"ColorTable11"=dword:00687a7d ; base03
+"ColorTable12"=dword:00809599 ; base04
+"ColorTable13"=dword:008ca2a6 ; base05
+"ColorTable14"=dword:00cfe4e8 ; base06
+"ColorTable15"=dword:00ecfbfe ; base07

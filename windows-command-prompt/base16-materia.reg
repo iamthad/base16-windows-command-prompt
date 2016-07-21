@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Materia (https://github.com/chriskempson/base16)
+; Scheme: Defman21
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00383226 ; base00
+"ColorTable01"=dword:00FFDD89 ; base0D
+"ColorTable02"=dword:0049D68B ; base0B
+"ColorTable03"=dword:00C4CB80 ; base0C
+"ColorTable04"=dword:00675FEC ; base08
+"ColorTable05"=dword:00FFAA82 ; base0E
+"ColorTable06"=dword:006095EA ; base09
+"ColorTable07"=dword:00DED3CD ; base05
+"ColorTable08"=dword:00807870 ; base03
+"ColorTable09"=dword:003F392C ; base01
+"ColorTable10"=dword:004F4737 ; base02
+"ColorTable11"=dword:00807870 ; base03
+"ColorTable12"=dword:00D3CCC9 ; base04
+"ColorTable13"=dword:00DED3CD ; base05
+"ColorTable14"=dword:00E5DBD5 ; base06
+"ColorTable15"=dword:00FFFFFF ; base07

@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Ocean (https://github.com/chriskempson/base16)
+; Scheme: Chris Kempson (http://chriskempson.com)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:003b302b ; base00
+"ColorTable01"=dword:00b3a18f ; base0D
+"ColorTable02"=dword:008cbea3 ; base0B
+"ColorTable03"=dword:00b4b596 ; base0C
+"ColorTable04"=dword:006a61bf ; base08
+"ColorTable05"=dword:00ad8eb4 ; base0E
+"ColorTable06"=dword:007087d0 ; base09
+"ColorTable07"=dword:00cec5c0 ; base05
+"ColorTable08"=dword:007e7365 ; base03
+"ColorTable09"=dword:00463d34 ; base01
+"ColorTable10"=dword:00665b4f ; base02
+"ColorTable11"=dword:007e7365 ; base03
+"ColorTable12"=dword:00baada7 ; base04
+"ColorTable13"=dword:00cec5c0 ; base05
+"ColorTable14"=dword:00e8e1df ; base06
+"ColorTable15"=dword:00f5f1ef ; base07

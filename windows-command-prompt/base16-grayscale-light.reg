@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Grayscale Light (https://github.com/chriskempson/base16)
+; Scheme: Alexandre Gavioli (https://github.com/Alexx2/)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00f7f7f7 ; base00
+"ColorTable01"=dword:00686868 ; base0D
+"ColorTable02"=dword:008e8e8e ; base0B
+"ColorTable03"=dword:00868686 ; base0C
+"ColorTable04"=dword:007c7c7c ; base08
+"ColorTable05"=dword:00747474 ; base0E
+"ColorTable06"=dword:00999999 ; base09
+"ColorTable07"=dword:00464646 ; base05
+"ColorTable08"=dword:00ababab ; base03
+"ColorTable09"=dword:00e3e3e3 ; base01
+"ColorTable10"=dword:00b9b9b9 ; base02
+"ColorTable11"=dword:00ababab ; base03
+"ColorTable12"=dword:00525252 ; base04
+"ColorTable13"=dword:00464646 ; base05
+"ColorTable14"=dword:00252525 ; base06
+"ColorTable15"=dword:00101010 ; base07

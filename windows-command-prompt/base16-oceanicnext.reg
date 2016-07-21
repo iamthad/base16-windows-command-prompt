@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 OceanicNext (https://github.com/chriskempson/base16)
+; Scheme: https://github.com/voronianski/oceanic-next-color-scheme
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00342B1B ; base00
+"ColorTable01"=dword:00CC9966 ; base0D
+"ColorTable02"=dword:0094C799 ; base0B
+"ColorTable03"=dword:00B3B35F ; base0C
+"ColorTable04"=dword:00675fEC ; base08
+"ColorTable05"=dword:00C594C5 ; base0E
+"ColorTable06"=dword:005791F9 ; base09
+"ColorTable07"=dword:00CEC5C0 ; base05
+"ColorTable08"=dword:007E7365 ; base03
+"ColorTable09"=dword:00463D34 ; base01
+"ColorTable10"=dword:00665B4F ; base02
+"ColorTable11"=dword:007E7365 ; base03
+"ColorTable12"=dword:00BAADA7 ; base04
+"ColorTable13"=dword:00CEC5C0 ; base05
+"ColorTable14"=dword:00DED3CD ; base06
+"ColorTable15"=dword:00E9DED8 ; base07

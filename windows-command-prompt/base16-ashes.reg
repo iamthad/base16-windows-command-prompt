@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Ashes (https://github.com/chriskempson/base16)
+; Scheme: Jannik Siebert (https://github.com/janniks)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:0023201C ; base00
+"ColorTable01"=dword:00C795AE ; base0D
+"ColorTable02"=dword:00AEC795 ; base0B
+"ColorTable03"=dword:00C7AE95 ; base0C
+"ColorTable04"=dword:0095AEC7 ; base08
+"ColorTable05"=dword:00AE95C7 ; base0E
+"ColorTable06"=dword:0095C7C7 ; base09
+"ColorTable07"=dword:00D1CCC7 ; base05
+"ColorTable08"=dword:00847C74 ; base03
+"ColorTable09"=dword:00453F39 ; base01
+"ColorTable10"=dword:00655E56 ; base02
+"ColorTable11"=dword:00847C74 ; base03
+"ColorTable12"=dword:00BAB3AD ; base04
+"ColorTable13"=dword:00D1CCC7 ; base05
+"ColorTable14"=dword:00E5E2DF ; base06
+"ColorTable15"=dword:00F5F4F3 ; base07

@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Monokai (https://github.com/chriskempson/base16)
+; Scheme: Wimer Hazenberg (http://www.monokai.nl)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00222827 ; base00
+"ColorTable01"=dword:00efd966 ; base0D
+"ColorTable02"=dword:002ee2a6 ; base0B
+"ColorTable03"=dword:00e4efa1 ; base0C
+"ColorTable04"=dword:007226f9 ; base08
+"ColorTable05"=dword:00ff81ae ; base0E
+"ColorTable06"=dword:001f97fd ; base09
+"ColorTable07"=dword:00f2f8f8 ; base05
+"ColorTable08"=dword:005e7175 ; base03
+"ColorTable09"=dword:00303838 ; base01
+"ColorTable10"=dword:003e4849 ; base02
+"ColorTable11"=dword:005e7175 ; base03
+"ColorTable12"=dword:00859fa5 ; base04
+"ColorTable13"=dword:00f2f8f8 ; base05
+"ColorTable14"=dword:00f1f4f5 ; base06
+"ColorTable15"=dword:00f5f8f9 ; base07
