@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Summerfruit Light (https://github.com/chriskempson/base16)
+; Scheme: Christopher Corley (http://christop.club/)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00FFFFFF ; base00
+"ColorTable01"=dword:00E67737 ; base0D
+"ColorTable02"=dword:0018C900 ; base0B
+"ColorTable03"=dword:00AAAA1F ; base0C
+"ColorTable04"=dword:008600FF ; base08
+"ColorTable05"=dword:00A100AD ; base0E
+"ColorTable06"=dword:000089FD ; base09
+"ColorTable07"=dword:00101010 ; base05
+"ColorTable08"=dword:00B0B0B0 ; base03
+"ColorTable09"=dword:00E0E0E0 ; base01
+"ColorTable10"=dword:00D0D0D0 ; base02
+"ColorTable11"=dword:00B0B0B0 ; base03
+"ColorTable12"=dword:00000000 ; base04
+"ColorTable13"=dword:00101010 ; base05
+"ColorTable14"=dword:00151515 ; base06
+"ColorTable15"=dword:00202020 ; base07
