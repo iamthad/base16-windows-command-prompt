@@ -1,0 +1,9 @@
+Sorry to slightly abuse GitHub, but with no real issues allowed in theis project, I really coudn't figure out another way.
+
+Anyway, there is definitely an issue with using base16-windows-command-prompt on Windows 10, at least with the new WSL/Ubuntu on Windows bash shell.
+
+Now that we finally have good, real Unix/Linux tools in Windows, in a better (and certainly more universal) way than MS has ever provided before, even more people will be looking to add things like the Base16 color schemes to their Ubuntu environemnts on Windows.
+
+Right now, the existing HKCU registry keys used do not properly "stick" for Ubuntu bash windows.  The failure mode is that in these command windows (which are subtly different somehow from regular CMD windows - it's not just the shell), the HKCU tweaks do effectively change the "Default" settings, but manage to do this *without* actually changing the settings that are running (as is evidenced by the fact that the old, original color settings are still in place under the "Properties" settings.  Not sure why the defaults are not working.
+
+Anyhow, I'm looking into this, and there are some possibly ugly hacks as workarounds (like duplicating the color settings in several different places in the Registry, creating potential state conflict problems), but I'd really like to understand what's going on and why before slinging around crude solutions like that...
