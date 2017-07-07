@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Dracula (https://github.com/chriskempson/base16)
+; Scheme: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00362928 ; base00
+"ColorTable01"=dword:00e8d662 ; base0D
+"ColorTable02"=dword:0087ffeb ; base0B
+"ColorTable03"=dword:00e4efa1 ; base0C
+"ColorTable04"=dword:00b251ea ; base08
+"ColorTable05"=dword:00cf5bb4 ; base0E
+"ColorTable06"=dword:00cf5bb4 ; base09
+"ColorTable07"=dword:00f4e9e9 ; base05
+"ColorTable08"=dword:00836462 ; base03
+"ColorTable09"=dword:004e3c3a ; base01
+"ColorTable10"=dword:00684f4d ; base02
+"ColorTable11"=dword:00836462 ; base03
+"ColorTable12"=dword:00e8d662 ; base04
+"ColorTable13"=dword:00f4e9e9 ; base05
+"ColorTable14"=dword:00f8f2f1 ; base06
+"ColorTable15"=dword:00fbf7f7 ; base07

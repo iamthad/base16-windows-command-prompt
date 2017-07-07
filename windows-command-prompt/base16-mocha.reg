@@ -4,7 +4,7 @@ Windows Registry Editor Version 5.00
 ; Scheme: Chris Kempson (http://chriskempson.com)
 
 [HKEY_CURRENT_USER\Console]
-"ColorTable00"=dword:0028323B ; base00
+"ColorTable00"=dword:0028323b ; base00
 "ColorTable01"=dword:00b5b38a ; base0D
 "ColorTable02"=dword:005bb5be ; base0B
 "ColorTable03"=dword:00a4bd7b ; base0C

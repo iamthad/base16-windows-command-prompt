@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Nord (https://github.com/chriskempson/base16)
+; Scheme: arcticicestudio
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:0040342e ; base00
+"ColorTable01"=dword:008bcbeb ; base0D
+"ColorTable02"=dword:006a61bf ; base0B
+"ColorTable03"=dword:007087d0 ; base0C
+"ColorTable04"=dword:00d0c088 ; base08
+"ColorTable05"=dword:008cbea3 ; base0E
+"ColorTable06"=dword:00c1a181 ; base09
+"ColorTable07"=dword:00f0e9e5 ; base05
+"ColorTable08"=dword:006a564c ; base03
+"ColorTable09"=dword:0052423b ; base01
+"ColorTable10"=dword:005e4c43 ; base02
+"ColorTable11"=dword:006a564c ; base03
+"ColorTable12"=dword:00e9ded8 ; base04
+"ColorTable13"=dword:00f0e9e5 ; base05
+"ColorTable14"=dword:00f4efec ; base06
+"ColorTable15"=dword:00bbbc8f ; base07

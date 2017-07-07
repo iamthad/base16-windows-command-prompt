@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Gruvbox dark, hard (https://github.com/chriskempson/base16)
+; Scheme: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:0021201d ; base00
+"ColorTable01"=dword:0098a583 ; base0D
+"ColorTable02"=dword:0026bbb8 ; base0B
+"ColorTable03"=dword:007cc08e ; base0C
+"ColorTable04"=dword:003449fb ; base08
+"ColorTable05"=dword:009b86d3 ; base0E
+"ColorTable06"=dword:001980fe ; base09
+"ColorTable07"=dword:00a1c4d5 ; base05
+"ColorTable08"=dword:00545c66 ; base03
+"ColorTable09"=dword:0036383c ; base01
+"ColorTable10"=dword:00454950 ; base02
+"ColorTable11"=dword:00545c66 ; base03
+"ColorTable12"=dword:0093aebd ; base04
+"ColorTable13"=dword:00a1c4d5 ; base05
+"ColorTable14"=dword:00b2dbeb ; base06
+"ColorTable15"=dword:00c7f1fb ; base07
